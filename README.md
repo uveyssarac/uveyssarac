@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 -  I’m currently working on developing software
+-  I’m currently developing myself in Java
 -  I’m currently learning .NET, EntityFramework, MSSQL
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/uveyssarac) 
