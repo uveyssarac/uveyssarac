@@ -16,9 +16,6 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=uveyssarac&show_icons=true&theme=radical)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uveyssarac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uveyssarac" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarac_uveys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarac_uveys" height="30" width="40" /></a>
