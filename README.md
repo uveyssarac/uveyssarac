@@ -2,7 +2,7 @@
 
 -  I’m currently working on developing software
 -  I’m currently developing myself in Java
--  I’m currently learning Spring Framework, RabbitMQ, Hibernate, Microservices
+-  I’m currently learning Spring Framework, MQtt, Microservices and IOT devices
 
 
 <h3 align="left">Languages and Tools:</h3>
