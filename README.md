@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--  I’m currently working on developing software
+-  I’m a software developer at [DESi](https://tr.linkedin.com/company/desi-alarm-ve-g%C3%BCvenlik-sistemleri-a-%C5%9F) 
 -  I’m currently developing myself in Java
--  I’m currently learning Spring Framework, MQtt, Microservices and IOT devices
+-  I’m currently working on Spring Boot, ActiveMq, MQtt, Microservices and IOT devices
 
 
 <h3 align="left">Languages and Tools:</h3>
